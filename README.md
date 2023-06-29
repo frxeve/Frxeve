@@ -29,7 +29,7 @@ In addition, I am a collaborative team member who values teamwork and diversity.
 
 In summary, I am always eager to learn new things and take on new challenges, and I look forward to contributing to the success of any team I am a part of. Thank you for taking the time to read my Github profile, and I am excited to connect with like-minded professionals in the field of front-end development!
 
-📈 my github stats
+📈 My GitHub Stats
 <p align="left">
 <a href="https://github.com/frxeve">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=frxeve&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
